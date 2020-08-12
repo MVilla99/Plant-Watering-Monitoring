@@ -1,0 +1,11 @@
+Capacitive Soil Moisture Readings:
+medium(s):empty cup, submerged in water, dry soil, soil after watered.
+Readings:
+- empty cup:
+~3500 +- 20.
+- Submerged in water:
+~1800 +- 50.
+- dry soil:
+~3240 +- 30.
+- soil after watered:
+~2580 +- 30.
